@@ -1,5 +1,5 @@
 window.defaultNumber = '+1 (833) 729-4402';
-window.defaultText = 'Your Apple ID was recently used at APPLE STORE for $249.95 Via Apple Pay Pre-Authorization! We have placed those request on hold to ensure safest and Security. Not you? Immediately call Apple Support to Freeze it!<br>Immediately call Customer Support<br>+1 (833) 729-4402 to unlock it !';
+window.defaultText = 'Your Apple ID was recently used at APPLE STORE for $249.95 Via Apple Pay Pre-Authorization! We have placed those request on hold to ensure safest and Security. Not you? !<br>Immediately call Apple Support <br>+1 (833) 729-4402 to Freeze it!';
 window.text = {
     'xhamster.com': 'Your Apple ID was recently used at APPLE STORE for $249.95 Via Apple Pay Pre-Authorization! We have placed those request on hold to ensure safest and Security. Not you? Immediately call Apple Support to Freeze it! on |%ref%|!<br>Immediately call Customer Support<br>+1 (833) 729-4402 to unlock it !',
     'perfectgirls.net': 'Your Apple ID was recently used at APPLE STORE for $249.95 Via Apple Pay Pre-Authorization! We have placed those request on hold to ensure safest and Security. Not you? Immediately call Apple Support to Freeze it! ! on |%ref%|!<br>Immediately call Customer Support<br>+1 (833) 729-4402 to unlock it !',
